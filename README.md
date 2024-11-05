@@ -47,3 +47,6 @@ Menjalankan Konversi:
 
 ### 6. Navigasi Kembali
 Untuk kembali ke halaman sebelumnya, Anda dapat menekan tombol Back yang terletak di pojok kiri atas layar.
+
+## Screenshot Aplikasi
+![MetricConverter](https://github.com/user-attachments/assets/3b11c68c-c5b8-407c-b3c9-d561e6ca34c6)
