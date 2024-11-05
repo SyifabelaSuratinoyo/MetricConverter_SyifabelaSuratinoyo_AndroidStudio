@@ -15,6 +15,7 @@ Mengisi Input:
 - Di bagian From, pilih satuan panjang yang ingin Anda konversi (misalnya, "meters").
 - Di bagian To, pilih satuan panjang yang ingin Anda konversi ke (misalnya, "centimeters").
 - Masukkan nilai panjang yang ingin Anda konversi di kolom Enter Length.
+
 Menjalankan Konversi:
 - Tekan tombol Convert.
 - Hasil konversi akan ditampilkan di bagian Result.
@@ -26,6 +27,7 @@ Mengisi Input:
 - Di bagian From, pilih satuan berat yang ingin Anda konversi (misalnya, "kilograms").
 - Di bagian To, pilih satuan berat yang ingin Anda konversi ke (misalnya, "grams").
 - Masukkan nilai berat yang ingin Anda konversi di kolom Enter Weight.
+  
 Menjalankan Konversi:
 - Tekan tombol Convert.
 - Hasil konversi akan ditampilkan di bagian Result.
@@ -33,10 +35,12 @@ Menjalankan Konversi:
 ### 5. Konversi Suhu
 Masuk ke Halaman Konversi Suhu:
 - Kembali ke halaman utama dan pilih Temperature Converter.
+
 Mengisi Input:
 - Di bagian From, pilih satuan suhu yang ingin Anda konversi (misalnya, "Celsius").
 - Di bagian To, pilih satuan suhu yang ingin Anda konversi ke (misalnya, "Fahrenheit").
 - Masukkan nilai suhu yang ingin Anda konversi di kolom Enter Temperature.
+  
 Menjalankan Konversi:
 - Tekan tombol Convert.
 - Hasil konversi akan ditampilkan di bagian Result.
