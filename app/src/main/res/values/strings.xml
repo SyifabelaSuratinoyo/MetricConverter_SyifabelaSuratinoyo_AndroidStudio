@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Metric Converter</string>
+
+    <string-array name="length_units">
+        <item>meters</item>
+        <item>centimeters</item>
+        <item>millimeters</item>
+        <item>kilometers</item>
+        <item>inches</item>
+        <item>feet</item>
+    </string-array>
+
+    <string-array name="weight_units">
+        <item>kilograms</item>
+        <item>grams</item>
+        <item>milligrams</item>
+        <item>pounds</item>
+        <item>ounces</item>
+    </string-array>
+
+    <string-array name="temperature_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+</resources>
